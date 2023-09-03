@@ -15,3 +15,4 @@ I learn a lot of data science skills. This bootcamp has 10 sprints as follow.
 - Essential Machine Learining for Data Analyst
 - Dashboard
 
+You can find me on Linkin https://www.linkedin.com/in/usara-praditsilapakul-34665622a/
